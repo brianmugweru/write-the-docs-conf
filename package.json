@@ -1,0 +1,26 @@
+{
+  "name": "write-the-docs-conf",
+  "version": "1.0.0",
+  "description": "write the docs conf",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmugweru/write-the-docs-conf.git"
+  },
+  "keywords": [
+    "write",
+    "the",
+    "docs",
+    "conf",
+    "2024"
+  ],
+  "author": "Brian Mugweru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianmugweru/write-the-docs-conf/issues"
+  },
+  "homepage": "https://github.com/brianmugweru/write-the-docs-conf#readme"
+}
